@@ -1,0 +1,28 @@
+
+body {
+  font-family: 'source sans pro';
+  font-size: 16px;
+}
+
+h1 {
+  font-family: 'Truculenta';
+  font-size: 4em;
+}
+
+
+
+img {
+  align-content: center;
+}
+
+@media (min-width: 768px){
+  img {
+    width: 1em;
+  }
+}
+
+@media (min-width: 1200px){
+  img {
+    width: 1em;
+  }
+}
